@@ -1,7 +1,7 @@
 {
   "url": "https://app.flutterflow.io/preview/t-e-x-token-e-xchange-lty5ir?page=Asset",                        // required
   "name": "TEX",                      // required
-  "iconUrl": "<app-icon-url>",               // required
+  "iconUrl": "https://github.com/avid0z/tex/blob/main/fruit.png",               // required
   "termsOfUseUrl": "<terms-of-use-url>",     // optional
   "privacyPolicyUrl": "<privacy-policy-url>" // optional
 }
